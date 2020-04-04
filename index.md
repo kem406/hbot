@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  "Rob Hart's H-Bot"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
