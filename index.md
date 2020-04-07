@@ -100,7 +100,7 @@ TBA
                     bgcolor:"white",
                     models:
                     [
-                        {filename:"footpad.stl", color:"#ffff00", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}}
+                        {filename:"footpad.stl", color:"yellow", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}}
 
                     ]
                 }
