@@ -26,7 +26,6 @@ TBA
 * Stepper motors
 * Belt
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>Roller</title>
