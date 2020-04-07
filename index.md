@@ -42,7 +42,7 @@ TBA
                 document.getElementById("stl_cont"),
                 {
                     zoom:100,
-                    bgcolor:"yellow",
+                    bgcolor:"white",
                     models:
                     [
                         {filename:"roller.stl", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
