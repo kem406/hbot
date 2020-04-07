@@ -44,7 +44,7 @@ TBA
                     bgcolor:"white",
                     models:
                     [
-                        {filename:"roller.stl", color:"#FFFF00", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
+                        {filename:"roller.stl", color:"#ffff00", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
 
                     ]
                 }
