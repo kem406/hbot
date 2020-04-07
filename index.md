@@ -44,7 +44,7 @@ TBA
                     bgcolor:"white",
                     models:
                     [
-                        {filename:"roller.stl", color:"#ffff00", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
+                        {filename:"roller.stl", color:"#ffff00", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}}
 
                     ]
                 }
@@ -56,7 +56,7 @@ TBA
 
 <html>
     <head>
-        <title>Roller</title>
+        <title>Pen Holder</title>
     </head>
 
     <body>
@@ -72,7 +72,35 @@ TBA
                     bgcolor:"white",
                     models:
                     [
-                        {filename:"penholder1.stl", color:"#ffff00", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
+                        {filename:"penholder1.stl", color:"#ffff00", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}}
+
+                    ]
+                }
+            );
+        </script>
+
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Footpad</title>
+    </head>
+
+    <body>
+        <div id="stl_cont" style="width:50%;height:200px;margin:0 auto;"></div>
+
+        <script src="stl_viewer.min.js"></script>        
+        <script>
+            var stl_viewer=new StlViewer
+            (
+                document.getElementById("stl_cont"),
+                {
+                    zoom:70,
+                    bgcolor:"white",
+                    models:
+                    [
+                        {filename:"footpad.stl", color:"#ffff00", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}}
 
                     ]
                 }
