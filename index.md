@@ -68,7 +68,7 @@ TBA
             (
                 document.getElementById("stl_cont"),
                 {
-                    zoom:50,
+                    zoom:40,
                     bgcolor:"white",
                     models:
                     [
