@@ -33,7 +33,7 @@ TBA
     </head>
 
     <body>
-        <div id="stl_cont" style="width:100%;height:100px;margin:0 auto;"></div>
+        <div id="stl_cont" style="width:20%;height:100px;margin:0 auto;"></div>
 
         <script src="stl_viewer.min.js"></script>        
         <script>
