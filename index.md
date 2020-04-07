@@ -26,6 +26,35 @@ TBA
 * Stepper motors
 * Belt
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Roller</title>
+    </head>
+
+    <body>
+        <div id="stl_cont" style="width:100%;height:500px;margin:0 auto;"></div>
+
+        <script src="stl_viewer.min.js"></script>        
+        <script>
+            var stl_viewer=new StlViewer
+            (
+                document.getElementById("stl_cont"),
+                {
+                    zoom:1500,
+                    bgcolor:"yellow",
+                    models:
+                    [
+                        {filename:"roller.stl", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
+
+                    ]
+                }
+            );
+        </script>
+
+    </body>
+</html>
+
 ## Circuits
 
 * [ATSAMD11 Breakout Board](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/Microcontrollers/ATSAMD11/Advanced_circuits_board/index.html)
