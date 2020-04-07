@@ -32,7 +32,7 @@ TBA
     </head>
 
     <body>
-        <div id="stl_cont" style="width:20%;height:100px;margin:0 auto;"></div>
+        <div id="stl_cont" style="width:50%;height:200px;margin:0 auto;"></div>
 
         <script src="stl_viewer.min.js"></script>        
         <script>
@@ -60,7 +60,7 @@ TBA
     </head>
 
     <body>
-        <div id="stl_cont" style="width:20%;height:100px;margin:0 auto;"></div>
+        <div id="stl_cont" style="width:50%;height:200px;margin:0 auto;"></div>
 
         <script src="stl_viewer.min.js"></script>        
         <script>
@@ -72,7 +72,7 @@ TBA
                     bgcolor:"white",
                     models:
                     [
-                        {filename:"penholder1.stl", color:"#ffff00", display:"smooth", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
+                        {filename:"penholder1.stl", color:"#ffff00", display:"flat", rotationx:0.5, rotationy:0.5, rotationz:0.5, animation:{delta:{rotationx:1, msec:1000, loop:true}}},
 
                     ]
                 }
