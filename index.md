@@ -24,7 +24,11 @@ Movement on the x-y plane is completely dictated by whether the two stepper moto
 
 The left motor turning clockwise and the right motor turning counter-clockwise, for example, causes tension on the bottom of the x-axis and tension above the x-axis being loosened. This causes a net effect of downward motion.
 
-If both motors are turning clockwise, this causes tension on the left side of the end effector to increase, while the tension on the right side relaxes. This causes a net effect of the end effector moving to the left. 
+If both motors are turning clockwise, this causes tension on the left side of the end effector to increase, while the tension on the right side relaxes. This causes a net effect of the end effector moving to the left.
+
+A more rigorous mathematical model of the H-Bot's movement can be found [here](https://www.icvr.ethz.ch/ConfiguratorJM/publications/MODELING_A_132687166151936/3314_mod.pdf).
+
+The crisscrossing of the drive belt is not necessary for the H-bot design, though it greatly stabilizes the wobbliness of the x-axis.
 
 # Hardware
 
