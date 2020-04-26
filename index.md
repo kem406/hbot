@@ -22,7 +22,7 @@ The H-bot gantry design allows for the same x-y movement to be achieved using on
 
 Movement on the x-y plane is completely dictated by whether the two stepper motors turn in the same direction, or rotate opposite of each other.
 
-The left motor turning clockwise and the right motor turning counter-clockwise, for example, causes tension on the bottom of the x-axis and tension above the x-axis being loosened. This causes a net effect of downward motion.
+The left motor turning clockwise and the right motor turning counter-clockwise, for example, causes increased tension on the bottom of the x-axis and relaxed tension above the x-axis. This causes a net effect of downward motion.
 
 If both motors are turning clockwise, this causes tension on the left side of the end effector to increase, while the tension on the right side relaxes. This causes a net effect of the end effector moving to the left.
 
@@ -260,7 +260,7 @@ input_x = analogRead(2);
 
 ## Stepper motor board code
 
-This code is given to both stepper motor boards. Note that it is important that one board's uint8_t address is set to 1 and the other is set to 2. This is because both boards are fed the same serial code, and this is the only way for the two motors to tell which part of the instructions they should be following (otherwise, they wouldn't be able to rotate in different directions when we want the robot to move up and down). 
+This code is given to both stepper motor boards. Note that it is important that one board's uint8_t address is set to 1 and the other is set to 2. This is because both boards are fed the same serial code, and this is the only way for the two motors to tell which part of the instructions they should be following (otherwise, they wouldn't be able to rotate in different directions when we want the robot to move up and down).
 
 ```
 /*
