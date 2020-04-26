@@ -126,7 +126,7 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 ### Rollers
 
-The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019).
+The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019). The stl for the roller itself can be downloaded [here](https://kem406.github.io/hbot/roller.stl).
 
 ### End Effector
 
@@ -138,15 +138,17 @@ These embedded bits of drive belt can then act as the "teeth" that holds the mai
 
 [<img src="ee2a.png" alt="ee2a">](https://kem406.github.io/hbot/ee2b.jpg)
 
-With a 3d-printed fastener (stl can be downloaded here) and some M3 screws and washers, the main drive belt can be fastened on top of the "teeth."
+With a 3d-printed fastener (.stl can be downloaded [here](https://kem406.github.io/hbot/fastener.stl)) and some M3 screws and washers, the main drive belt can be fastened on top of the "teeth."
 
 [<img src="ee3a.jpg" alt="ee3a">](https://kem406.github.io/hbot/ee3b.jpg)
 
 The end effector was designed to allow two M3 nuts to be embedded snugly in place for this purpose. Two more M3 nuts can be fitted inside two slots towards the top of the end effector; this allows for future additions (such as a solenoid) to be bolted on top.
 
+The .stl file for the end effector can be downloaded [here](https://kem406.github.io/hbot/penholder1.stl).
+
 ### Footpads
 
-These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot.
+These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot. The .stl file for the footpads can be downloaded [here](https://kem406.github.io/hbot/footpad.stl).
 
 ## Miscellaneous Hardware (non-exhaustive)
 
