@@ -39,6 +39,9 @@ A non-exhaustive components list is as follows:
 * Drive belt
 
 ## 3D-printed hardware
+
+### Roller
+
 <html>
     <head>
         <title>Roller</title>
@@ -66,6 +69,10 @@ A non-exhaustive components list is as follows:
 
     </body>
 </html>
+
+The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019).
+
+### End Effector
 
 <html>
     <head>
@@ -95,6 +102,10 @@ A non-exhaustive components list is as follows:
     </body>
 </html>
 
+The end effector was designed to hold a pen-sized marker, which can be fitted through the shaft. Two small rectangle-shaped reliefs were incorporated on both sides of the end effector - these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt, which act as "teeth" that can hold the main drive belt in place.
+
+### Footpads
+
 <html>
     <head>
         <title>Footpad</title>
@@ -122,6 +133,8 @@ A non-exhaustive components list is as follows:
 
     </body>
 </html>
+
+These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot. 
 
 ## Circuits
 
