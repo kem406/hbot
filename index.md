@@ -260,7 +260,7 @@ input_x = analogRead(2);
 
 ## Stepper motor board code
 
-This code is given to both stepper motor boards. Note that it is important that one board's uint8_t address is set to 1 and the other is set to 2. This is because both boards are fed the same serial code, and this is the only way for the two motors to tell which part of the instructions they should be following (otherwise, they wouldn't be able to rotate in different directions). 
+This code is given to both stepper motor boards. Note that it is important that one board's uint8_t address is set to 1 and the other is set to 2. This is because both boards are fed the same serial code, and this is the only way for the two motors to tell which part of the instructions they should be following (otherwise, they wouldn't be able to rotate in different directions when we want the robot to move up and down). 
 
 ```
 /*
