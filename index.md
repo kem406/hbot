@@ -134,7 +134,7 @@ The end effector was designed to hold a pen-sized marker, which can be fitted th
     </body>
 </html>
 
-These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot. 
+These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot.
 
 ## Circuits
 
