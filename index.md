@@ -32,10 +32,13 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 # Hardware
 
-* Board
-* Stepper motors
-* Belt
+A non-exhaustive components list is as follows:
 
+* Fiberglass board
+* Stepper motors
+* Drive belt
+
+## 3D-printed hardware
 <html>
     <head>
         <title>Roller</title>
