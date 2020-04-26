@@ -32,15 +32,13 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 # Hardware
 
-A non-exhaustive components list is as follows:
+## Circuits
 
-* Fiberglass board
-* Stepper motors
-* Drive belt
+* [ATSAMD11 Breakout Board](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/Microcontrollers/ATSAMD11/Advanced_circuits_board/index.html)
+
+* [ATSAMD11 H-Brige Board](https://roberthart56.github.io/SCFAB/SC_lab/Output_Devices/SAMD11_stepper/index.html) x2
 
 ## 3D-printed hardware
-
-### Roller
 
 <html>
     <head>
@@ -70,10 +68,6 @@ A non-exhaustive components list is as follows:
     </body>
 </html>
 
-The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019).
-
-### End Effector
-
 <html>
     <head>
         <title>Pen Holder</title>
@@ -101,10 +95,6 @@ The rollers used for this robot were designed by Jake Read for the machine desig
 
     </body>
 </html>
-
-The end effector was designed to hold a pen-sized marker, which can be fitted through the shaft. Two small rectangle-shaped reliefs were incorporated on both sides of the end effector - these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt, which act as "teeth" that can hold the main drive belt in place.
-
-### Footpads
 
 <html>
     <head>
@@ -134,13 +124,26 @@ The end effector was designed to hold a pen-sized marker, which can be fitted th
     </body>
 </html>
 
+### Rollers
+
+The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019).
+
+### End Effector
+
+The end effector was designed to hold a pen-sized marker, which can be fitted through the shaft. Two small rectangle-shaped reliefs were incorporated on both sides of the end effector - these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt, which act as "teeth" that can hold the main drive belt in place.
+
+### Footpads
+
 These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot.
 
-## Circuits
+## Miscellaneous Hardware (non-exhaustive)
 
-* [ATSAMD11 Breakout Board](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/Microcontrollers/ATSAMD11/Advanced_circuits_board/index.html)
+* Fiberglass board
+* M3 hardware
+* Drive belt
+* [Unipolar stepper motors](https://www.jameco.com/z/42BYGH404-R-Unipolar-Stepper-Motor-12VDC-400mA_238538.html)
+* 12-volt power supply
 
-* [ATSAMD11 H-Brige Board](https://roberthart56.github.io/SCFAB/SC_lab/Output_Devices/SAMD11_stepper/index.html) x2
 
 # Software
 
