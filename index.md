@@ -18,7 +18,7 @@ A [cartesian coordinate robot](https://en.wikipedia.org/wiki/Cartesian_coordinat
 
 The H-bot gantry design allows for the same x-y movement to be achieved using only 2 stepper motors. This makes the design advantageous for large-scale deployment in manufacturing, potentially lowering assembly costs, but more importantly it allows for the moving axes to be freed of carrying the weight of one of the stepper motors. Note that all motors of the drawing robot are immobile and anchored at the base - this is not something you would normally see on an x-y machine!
 
-## How it Works
+## How it works
 
 Movement on the x-y plane is completely dictated by whether the two stepper motors turn in the same direction, or rotate opposite of each other.
 
@@ -36,7 +36,7 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 * [ATSAMD11 Breakout Board](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/Microcontrollers/ATSAMD11/Advanced_circuits_board/index.html)
 
-* [ATSAMD11 H-Brige Board](https://roberthart56.github.io/SCFAB/SC_lab/Output_Devices/SAMD11_stepper/index.html) x2
+* [ATSAMD11 H-Brige Boards](https://roberthart56.github.io/SCFAB/SC_lab/Output_Devices/SAMD11_stepper/index.html)
 
 ## 3D-printed hardware
 
@@ -150,7 +150,7 @@ The .stl file for the end effector can be downloaded [here](https://kem406.githu
 
 These hourglass-shaped footpads are nothing special and exist entirely to support the back end of the robot. The .stl file for the footpads can be downloaded [here](https://kem406.github.io/hbot/footpad.stl).
 
-## Miscellaneous Hardware (non-exhaustive)
+## Miscellaneous hardware (non-exhaustive)
 
 * Fiberglass board
 * M3 hardware
