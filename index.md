@@ -126,7 +126,7 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 ### Rollers
 
-The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019). The stl for the roller itself can be downloaded [here](https://kem406.github.io/hbot/roller.stl).
+The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019). The .stl file for the roller itself can be downloaded [here](https://kem406.github.io/hbot/roller.stl).
 
 ### End effector
 
