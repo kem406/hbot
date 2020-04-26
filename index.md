@@ -128,7 +128,7 @@ The crisscrossing of the drive belt is not necessary for the H-bot design, thoug
 
 The rollers used for this robot were designed by Jake Read for the machine design portion of MIT's How to Make Almost Anything class. More information can be found [here](https://gitlab.cba.mit.edu/jakeread/machineweek-2019). The stl for the roller itself can be downloaded [here](https://kem406.github.io/hbot/roller.stl).
 
-### End Effector
+### End effector
 
 The end effector was designed to hold a pen-sized marker which fits through the shaft. Two small rectangle-shaped reliefs were incorporated into both ends of the end effector—these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt.
 
