@@ -130,7 +130,7 @@ The rollers used for this robot were designed by Jake Read for the machine desig
 
 ### End effector
 
-The end effector was designed to hold a pen-sized marker which fits through the shaft. Two small rectangle-shaped reliefs were incorporated into both ends of the end effector—these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt.
+The end effector was designed to hold a pen-sized marker which fits through the shaft. Two small rectangle-shaped reliefs were incorporated into the right-hand and left-hand sides of the end effector—these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt.
 
 [<img src="ee1a.jpg" alt="ee1a">](https://kem406.github.io/hbot/ee1b.jpg)
 
