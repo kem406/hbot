@@ -132,15 +132,15 @@ The rollers used for this robot were designed by Jake Read for the machine desig
 
 The end effector was designed to hold a pen-sized marker which fits through the shaft. Two small rectangle-shaped reliefs were incorporated into both ends of the end effector—these are designed to snugly contain (with a small application of superglue) a small cut-off portion of the drive belt.
 
-[<img src="ee1a.jpg" alt="ee1a.jpg">](https://kem406.github.io/hbot/ee1b.jpg)
+[<img src="ee1a.jpg" alt="ee1a">](https://kem406.github.io/hbot/ee1b.jpg)
 
 These embedded bits of drive belt can then act as the "teeth" that holds the main drive belt in place.
 
-[<img src="ee2a.jpg" alt="ee2a.png">](https://kem406.github.io/hbot/ee2b.jpg)
+[<img src="ee2a.png" alt="ee2a">](https://kem406.github.io/hbot/ee2b.jpg)
 
 With a 3d-printed fastener (stl can be downloaded here) and some M3 screws and washers, the main drive belt can be fastened on top of the "teeth."
 
-[<img src="ee3a.jpg" alt="ee3a.jpg">](https://kem406.github.io/hbot/ee3b.jpg)
+[<img src="ee3a.jpg" alt="ee3a">](https://kem406.github.io/hbot/ee3b.jpg)
 
 The end effector was designed to allow two M3 nuts to be embedded snugly in place for this purpose. Two more M3 nuts can be fitted inside two slots towards the top of the end effector; this allows for future additions (such as a solenoid) to be bolted on top.
 
