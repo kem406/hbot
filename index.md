@@ -161,6 +161,8 @@ These hourglass-shaped footpads are nothing special and exist entirely to suppor
 
 # Software
 
+All of the following programming was done with the Arduino IDE with the board parameter set to "Generic D11C14A."
+
 ## Main break-out board code
 
 ```
